@@ -1,0 +1,8 @@
+git init : initialize the git 
+git status checking status of the 
+git commit -m "Comment"
+git push origin main
+git add filename
+git restore filename
+git branch
+git brance -M newname
