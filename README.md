@@ -1,2 +1,2 @@
 ## git tutorials by Sreenivas Reddicherla
-## Follow the on LinkedIn
+## Follow me the on LinkedIn
