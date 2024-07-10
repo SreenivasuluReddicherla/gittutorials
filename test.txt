@@ -5,4 +5,5 @@ git push origin main
 git add filename
 git restore filename
 git branch
-git brance -M newname
+git branch -M newname
+git remote -v
