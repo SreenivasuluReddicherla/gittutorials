@@ -50,3 +50,11 @@ Create an empty folder
 	git status
 
 git add .
+git reset filename
+git status
+git diff --staged
+git branch
+git branch developer
+git branch
+git checkout developer
+git branch
