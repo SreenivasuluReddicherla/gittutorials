@@ -58,3 +58,6 @@ git branch developer
 git branch
 git checkout developer
 git branch
+git checkout main
+git merge developer
+git push origin main
